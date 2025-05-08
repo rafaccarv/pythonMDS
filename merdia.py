@@ -7,7 +7,7 @@ print(f"Your average is {m}")
 if m <= 5:
     print("FAILED, BRUH.")
 
-elif m <= 7:
+elif m < 7:
     print("In recovery, lucky lucky.")
 
 elif m > 7:

@@ -12,9 +12,9 @@
 
 
 
-letter = input("give me a random letter:")
+letter = input("give me a random letter:").lower()
 
-if letter in "aeiouAeiou" :
+if letter in "aeiou" :
     print ("vowel")
 
 else:
