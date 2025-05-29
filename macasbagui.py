@@ -19,3 +19,5 @@ if letter in "aeiou" :
 
 else:
     print("consonant")
+
+
